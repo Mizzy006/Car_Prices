@@ -3,15 +3,15 @@ This project analyzes used car prices in the U.S. using Python, with a special f
 It covers data cleaning, exploratory data analysis (EDA), visualizations, and insights on how factors like mileage, model year, and condition impact pricing.
 
 ## Tools and Libraries
-Python
+-Python
 
-Pandas
+-Pandas
 
-Numpy
+-Numpy
 
-Matplotlib
+-Matplotlib
 
-Seaborn
+-Seaborn
 
 ## Key Insights
 -Mileage vs Price: Strong negative correlation — prices drop as mileage increases.
